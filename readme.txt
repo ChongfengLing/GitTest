@@ -1,5 +1,4 @@
 first
 second
 in branch dev
-switch test
-feature 2
+feature 3
